@@ -9,9 +9,9 @@
 <h3 align="center">About Me :</h3>  
  <p align="center">
  👋  I'm Danish, a self-motivated tech enthusiast.
-<br> 💻 Currently working as programmer analyst <a href="/">@Cognizant</a>
-<br>🌱 building <a href="/">Message encryption tool</a>
-<br>💬 connect <a href="/">danishdanish020@gmail.com</a>
+<br> 💻 Currently working as programmer analyst <a href="./">@Cognizant</a>
+<br>🌱 building <a href="./">Message encryption tool</a>
+<br>💬 connect <a href="./">danishdanish020@gmail.com</a>
  </p>
 
 <br/>
