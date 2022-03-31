@@ -16,7 +16,7 @@
 
 
 <h3 align="center">
-My Tech Stacks
+My Tech Stacks:
 </h3>
 
 <p align="center"> 
@@ -31,6 +31,7 @@ My Tech Stacks
     
 <br/>
     <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danish-uddin&" alt="danish-uddin" /></p>
+    
 
 <!---
 Danish-uddin/Danish-uddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
