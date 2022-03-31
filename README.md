@@ -14,12 +14,10 @@
 <br>💬 connect <a href="/#">danishdanish020@gmail.com</a>
  </p>
 
-<br/>
+
 <h3 align="center">
 My Tech Stacks
 </h3>
-
-
 
 <p align="center"> 
 
