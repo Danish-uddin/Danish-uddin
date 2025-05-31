@@ -10,7 +10,6 @@
  <p align="center">
  👋  I'm Danish, a self-motivated tech enthusiast.
 <br>🌱 building <a href="/#">Message encryption tool</a>
-<br>💬 connect <a href="/#">danishdanish020@gmail.com</a>
  </p>
 
 
